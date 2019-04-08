@@ -3,3 +3,7 @@
 ################################################################################
 
 /Amortizacion/.vs/Amortizacion
+/Amortizacion/src/Amortizacion.Core/bin/Debug/netstandard2.0
+/Amortizacion/XUnitTestProject1/bin/Debug/netcoreapp2.1
+/Amortizacion/XUnitTestProject1/obj
+/Amortizacion/src/Amortizacion.Core/obj
