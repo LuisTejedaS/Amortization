@@ -7,7 +7,7 @@ using Xunit;
 
 namespace XUnitTestProject1
 {
-    public class UnitTest1
+    public class UT_Finantial_Functions
     {
 
 
